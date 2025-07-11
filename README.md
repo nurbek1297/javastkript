@@ -1,1 +1,2 @@
 # javastkript
+yana o'xhsahin
